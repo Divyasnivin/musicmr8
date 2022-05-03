@@ -66,8 +66,8 @@ async def vplay(c: Client, m: Message):
                 InlineKeyboardButton(text="●↯التـحـكــم↯●", callback_data="cbmenu"),
                 InlineKeyboardButton(text="🗑اغــلاق●", callback_data="cls"),
               ],
-              [InlineKeyboardButton("✯𝐌𝐒✯ 𝒗𝒊𝒓𝒖𝒔┋✘🇨🇦!", url=f"t.me/FLASH_MASR"),
-              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗔𝗘𝗦𝗧𝗥𝗢┋✘🇨🇦!", url=f"t.me/APP_YOUTUBE"),
+              [InlineKeyboardButton("𝒗𝒊𝒓𝒖𝒔", url=f"t.me/FLASH_MASR"),
+              InlineKeyboardButton("𝒔𝒐𝒖𝒓𝒄𝒆 𝒎𝒂𝒆𝒔𝒕𝒓𝒐", url=f"t.me/APP_YOUTUBE"),
                 ],
               [InlineKeyboardButton("🎧اضافه البوت اللي مجموعتك🎧", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),              
             ]
@@ -304,8 +304,8 @@ async def vstream(c: Client, m: Message):
                 InlineKeyboardButton(text="●↯التـحـكــم↯●", callback_data="cbmenu"),
                 InlineKeyboardButton(text="🗑اغــلاق●", callback_data="cls"),
               ],
-              [InlineKeyboardButton("✯𝐌𝐒✯ 𝒗𝒊𝒓𝒖𝒔┋✘🇨🇦!", url=f"t.me/FLASH_MASR"),
-              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗔𝗘𝗦𝗧𝗥𝗢┋✘🇨🇦!", url=f"t.me/APP_YOUTUBE"),
+              [InlineKeyboardButton("𝒗𝒊𝒓𝒖𝒔", url=f"t.me/FLASH_MASR"),
+              InlineKeyboardButton("𝒔𝒐𝒖𝒓𝒄𝒆 𝒎𝒂𝒆𝒔𝒕𝒓𝒐", url=f"t.me/APP_YOUTUBE"),
               ],
               [InlineKeyboardButton("🎧اضافه البوت اللي مجموعتك🎧", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),               
             ]
